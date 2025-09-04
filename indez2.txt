@@ -1,0 +1,35 @@
+<html>
+       
+       <head>  
+
+             <title>Basic Tags in HTML</title>
+  
+       </head>
+ 
+       <body>
+
+              <br >
+        
+              <hr >
+              <img src="1223.jpg" alt="thumbs up" title="logo"/>
+              <br />
+      
+      
+             <b>Bold</b>  <br?>
+             <strong>Bold</strong>  <br />       
+	     <em>Italic</i>  <br />
+	     <em>Italic</em>  <br>
+             <mark>Markim tekstit</mark><br />
+	     <small>Tekstit i vogel</small><br />
+	     <del>Teksti i fshire</del><br />
+	     <ins>Insertim i tekstit</ins><br />
+	     <u>Insertim i tekstit</u><br />
+	     <p>H<sub>2</sub>0</p>	    
+	     <p>E<sup>X</sup></p>
+	     <pre> A  R  I  A  N  I  T  </pre><br />   
+             <q>Qoutes</q><br />  
+	     <p><b><i><del><mark><q>shkolla digitale</q></mark></del></i></b></p>    
+     </body> 
+ 
+
+ </html>
