@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.div-kryesor{
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+}
+#nav{
+    height: 30px;
+    width: 30px;
+    border: none;
+}
+#logo{
+    float: right;
+}
+#background{
+      background-image:url(swiss alps4.png);
+    width:100%;
+}
